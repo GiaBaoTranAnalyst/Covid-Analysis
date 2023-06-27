@@ -1,1 +1,1 @@
-# Covid-Analysis
+# SQL_Covid-Analysis
