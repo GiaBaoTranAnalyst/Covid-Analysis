@@ -40,4 +40,12 @@ II. Process:
    ![image](https://github.com/GiaBaoTranAnalyst/SQL-Covid-Analysis-Exploration/assets/132706047/c0238d95-7196-4e4b-8519-525851ae2168)
 
 
+III. Result:
+
+  After conducting a thorough data exploration, I have identified several valuable insights for analysis, including trends in COVID-19 incidence rates and identifying the continents or countries with the highest infection rates. Additionally, we can leverage the data to assess which countries have implemented effective strategies for efficiently vaccinating their populations.
+
+IV. Tools:
+- SQL
+- Excel 
+
 
