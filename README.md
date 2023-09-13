@@ -22,6 +22,7 @@ II. Process:
   ![image](https://github.com/GiaBaoTranAnalyst/SQL-Covid-Analysis-Exploration/assets/132706047/26f07b96-e03d-4232-82d2-c01794141957)
 
 5. Showing the continent with the highest death count per population.
+ 
   ![image](https://github.com/GiaBaoTranAnalyst/SQL-Covid-Analysis-Exploration/assets/132706047/69c80989-da43-460e-8509-ea0058334267)
 
 6. Looking at total Population and Vaccinations.
