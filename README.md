@@ -1,4 +1,24 @@
 # SQL_Covid_Exploration-Analysis
 
-## Objective:
-Using global data to analyze the trend, and the correlation between death rate, region, and country to give the general picture of the damage of the Covid pandemic to human beings. Besides that, we can use these kinds of data to know what country controls and mitigate the dangerous situation well.
+I. Objective:
+Using global data to analyze the trend, and the correlation between death rate, region, and country to give the general picture of the damage of the Covid pandemic to human beings. Besides that, we can use these kinds of data to know what country controls and mitigates the dangerous situation well.
+
+II. Process:
+
+1. Find the likelihood of dying if people contract COVID-19 in the US.
+
+  ![image](https://github.com/GiaBaoTranAnalyst/SQL-Covid-Analysis-Exploration/assets/132706047/cf8de096-e234-4d7c-9e87-5ff698367d30)
+
+2. Find the percentage of the population who got Covid.
+ 
+  ![image](https://github.com/GiaBaoTranAnalyst/SQL-Covid-Analysis-Exploration/assets/132706047/aafb8b23-e815-4f75-97ef-ea21f8c34032)
+
+3. Find the country that has the highest infection rate.
+
+  ![image](https://github.com/GiaBaoTranAnalyst/SQL-Covid-Analysis-Exploration/assets/132706047/01479d3c-9009-407c-9fba-7cd05391dafd)
+
+4. Find the country with the highest death count per population.
+
+  ![image](https://github.com/GiaBaoTranAnalyst/SQL-Covid-Analysis-Exploration/assets/132706047/26f07b96-e03d-4232-82d2-c01794141957)
+
+5. 
