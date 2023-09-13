@@ -21,4 +21,22 @@ II. Process:
 
   ![image](https://github.com/GiaBaoTranAnalyst/SQL-Covid-Analysis-Exploration/assets/132706047/26f07b96-e03d-4232-82d2-c01794141957)
 
-5. 
+5. Showing the continent with the highest death count per population.
+  ![image](https://github.com/GiaBaoTranAnalyst/SQL-Covid-Analysis-Exploration/assets/132706047/69c80989-da43-460e-8509-ea0058334267)
+
+6. Looking at total Population and Vaccinations.
+
+  ![image](https://github.com/GiaBaoTranAnalyst/SQL-Covid-Analysis-Exploration/assets/132706047/00cb08dc-5ffc-4cbd-8d5a-b37fb2aeffe2)
+
+7. Create a table and store data inside.
+
+  ![image](https://github.com/GiaBaoTranAnalyst/SQL-Covid-Analysis-Exploration/assets/132706047/d222443b-812d-4a7f-bb3b-e8234de4659b)
+
+  ![image](https://github.com/GiaBaoTranAnalyst/SQL-Covid-Analysis-Exploration/assets/132706047/9f06c2e0-8143-4550-8ac2-37b9429088f6)
+
+8. Creating a view to store data for later visualizations.
+
+   ![image](https://github.com/GiaBaoTranAnalyst/SQL-Covid-Analysis-Exploration/assets/132706047/c0238d95-7196-4e4b-8519-525851ae2168)
+
+
+
